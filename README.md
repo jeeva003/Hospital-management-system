@@ -2,7 +2,7 @@
 This hospital management project is made using the tkinter and sqlite in python 
 
 username for login page are 'Jeeva' and password for this username is '0987654321'
-Another username is 'Jeeva' and password is 'Happy'
+Another username is 'Jeeva012345' and password is 'Happy'
 
 open this project and explore it.
 
